@@ -18,18 +18,16 @@ console.groupEnd('opgave 3');
 
 console.group('opgave 4');
 let myNumber = 1;
-
-myNumber = myNumber + 1; // Inkrementér
+// Inkrementér
+myNumber = myNumber + 1; 
 console.log(myNumber);
-
-myNumber = myNumber - 1; // Dekrementér
+// Dekrementér
+myNumber = myNumber - 1; 
 console.log(myNumber);
 //ALTERNATIV
 let myNumber2 = 1;
-
-myNumber2++; // Inkrementér
+myNumber2++; 
 console.log(myNumber2);
-
-myNumber2--; // Dekrementér
+myNumber2--; 
 console.log(myNumber2);
 console.groupEnd('opgave 4');
